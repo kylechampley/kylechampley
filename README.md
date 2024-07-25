@@ -2,4 +2,4 @@ Hi, my name is Kyle Champley.  I've worked my entire career on tomographic imagi
 
 Here on github I contribute to the [LEAP-CT](https://github.com/LLNL/LEAP/), [XrayPhysics](https://github.com/kylechampley/XrayPhysics), and [LEAPCT-UI-GUI](https://github.com/kylechampley/LEAPCT-UI-GUI) software packages.
 
-I'm happy to provide support for any of these open-source projects, but if you're in need of extra help with your tomography data, I can provide further assistance as a paid contractor.  Please contact me by email and we can work out the details.
+I'm happy to provide support for any of these open-source projects, but if you're in need of extra help with your tomography data, I can provide further assistance as a paid contractor.  Please contact me by [email](https://github.com/LLNL/LEAP/?tab=readme-ov-file#authors) and we can work out the details.
